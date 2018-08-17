@@ -1,2 +1,2 @@
-# wp-starter-theme
+# WordPress Starter Theme
 A WordPress starting point for custom WordPress themes.
