@@ -1,12 +1,8 @@
-<?php /* Custom Header
- *
- * You can add an optional custom header image to header.php like so ...
- *
-	<?php the_header_image_tag(); ?>
- *
- * @link https://developer.wordpress.org/themes/functionality/custom-headers/
- *
- */
+<?php
+/* Custom Header
+	You can add an optional custom header image to header.php like so ... <?php the_header_image_tag(); ?>
+	https://developer.wordpress.org/themes/functionality/custom-headers/
+*/
 
 /**
  * Set up the WordPress core custom header feature.
