@@ -17,9 +17,9 @@ Then simply build and customize as needed.
 
 ### Todos
 
- - More search engine optimizations
- - Better integration with Schema
- - Addition of more standard WP Features
+ - [ ] More search engine optimizations
+ - [ ] Better integration with Schema
+ - [ ] Addition of more standard WP Features
 
 ### License
 
