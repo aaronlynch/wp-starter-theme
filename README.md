@@ -24,4 +24,4 @@ Then simply build and customize as needed.
 
 ### License
 
-MIT
+GPL 3
