@@ -19,7 +19,7 @@ Then simply build and customize as needed.
 
  - [ ] Google Chrome Lighthouse testing
  - [ ] More search engine optimizations
- - [ ] Better integration with Schema
+ - [ ] Better integration of Schema
  - [ ] Addition of more standard WP Features
 
 ### License
