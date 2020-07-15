@@ -13,6 +13,7 @@ Then simply copy this theme into the themes directory and activate it in WP admi
 ```
 /wp-content/themes/
 ```
+Then simply build and customize as needed.
 
 ### Todos
 
