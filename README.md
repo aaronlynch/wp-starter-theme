@@ -17,6 +17,7 @@ Then simply build and customize as needed.
 
 ### Todos
 
+ - [ ] Google Chrome Lighthouse testing
  - [ ] More search engine optimizations
  - [ ] Better integration with Schema
  - [ ] Addition of more standard WP Features
