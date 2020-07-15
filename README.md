@@ -13,7 +13,7 @@ WP Starter Theme is a foundational starter theme for building out WordPress them
   - Smartly organized starter CSS in style.css that will help you to quickly get your design off the ground.
   - The GPL license in license.txt. 🙂 Use it to make something cool.
 
-# Dependencies
+## Dependencies
 
 WP Starter Theme uses a number of open source projects to work properly:
 
