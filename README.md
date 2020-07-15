@@ -1,6 +1,6 @@
 # WordPress Starter Theme
 
-WP Starter Theme is an in-house foundational starter theme for building out WordPress websites and projects.
+WP Starter Theme is an in-house foundation for building out WordPress themes, websites, and projects. This theme provides the minimal amount of lean, well-commented HTML5 code and templates. 
 
   - Type some Markdown on the left
   - See HTML in the right
